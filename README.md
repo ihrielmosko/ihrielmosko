@@ -12,7 +12,7 @@
 
 #
 <div align="center">
-  <img src="https://img.shields.io/badge/coffee%20status-ready-brightgreen"/>
+  <img src="https://www.codewars.com/users/faustus/badges/small"/>
 </div>
 
 <!--
