@@ -12,7 +12,7 @@
 
 #
 <div align="center">
-  <img src="https://www.codewars.com/users/faustus/badges/small"/>
+  <a href=https://www.codewars.com/><img src="https://www.codewars.com/users/faustus/badges/small"/>
 </div>
 
 <!--
