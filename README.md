@@ -11,8 +11,6 @@
     <img src="https://img.shields.io/badge/Arch-1793d1?style=flat-square&logo=archlinux&logoColor=white"> </a>
   <a href="https://learn.microsoft.com/pt-br/windows/wsl/install"target="_blank">
     <img src="https://img.shields.io/badge/WSL2-727272?style=flat-square&logo=linux&logoColor=white"></a><br>
-  <a href="https://discord.gg/ZxcweXHE94"target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"></a>
   <a href="https://steamcommunity.com/id/laughing_wolf"target="_blank">
     <img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ihriel-mosko-5717b3234"target="_blank">
