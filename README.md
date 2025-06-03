@@ -17,11 +17,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 </div>
 
-#
-<div align="center">
-  <a href="https://www.codewars.com/"target="_blank">
-    <img src="https://www.codewars.com/users/faustus/badges/small"/> </a>
-</div>
+<!--#-->
+<!-- <div align="center"> -->
+<!--   <a href="https://www.codewars.com/"target="_blank"> -->
+<!--     <img src="https://www.codewars.com/users/faustus/badges/small"/> </a> -->
+<!-- </div> -->
 
 <!--
 https://github-readme-stats.vercel.app/api?username=ihrielmosko&show_icons=true&theme=midnight-purple&include_all_commits=true
